@@ -1,3 +1,13 @@
+**Business Problem Statement**
+
+  Restaurant businesses generate large amounts of data related to customers, orders, deliveries, ratings, and revenue. However, this data is often stored in raw or unorganized form, making   it difficult for restaurant managers and business owners to analyze performance and make informed decisions.
+
+  The major business problem is the lack of a centralized analytical system that can monitor important business metrics such as total sales, customer behavior, delivery efficiency,           restaurant performance, and revenue growth in real time.
+
+**Final Desired Outcome**
+
+   The final desired outcome of the project was successfully achieved by creating a scalable and user-friendly analytical dashboard that improves operational monitoring, business               understanding, customer analysis, and overall restaurant performance evaluation through data visualization and KPI tracking.
+
 
 **1.  Restaurant Order Management Dashboard**
    
