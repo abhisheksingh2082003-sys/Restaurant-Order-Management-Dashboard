@@ -13,7 +13,7 @@
    
  It is a database-driven project developed to manage restaurant operations efficiently. The system stores and manages customer information, restaurant details, order records, and date-       based transaction data.
 
-**3. Overview**
+**2. Overview**
    
    This project is a Restaurant Order Management Dashboard developed using Power BI and SQL. The dashboard analyzes restaurant orders, customer behavior, delivery performance, and revenue     trends using data visualization and DAX calculations.
 
@@ -24,7 +24,7 @@
    The main purpose of the dashboard is to simplify decision-making by converting raw database records into meaningful charts, graphs, and performance indicators. Instead of viewing data      in tables only, users can easily monitor trends, compare restaurant performance, and analyze customer ordering behavior through visual reports.
 
 
-**5. Tech Stack**
+**4. Tech Stack**
    
    
   List the key technologies used to build the dashboard:-
@@ -44,7 +44,7 @@
 
  Data on 30K+ restuarants around the world, including details on their location, prices,rating, votes , cuisine and many more insights.
 
-**5. Features**
+**6. Features**
 
 
   - Real-Time Business Monitoring
@@ -57,7 +57,7 @@
   - Time Intelligence Analysis
   - Interactive Visualization Features
 
-**6. Key questions that resolve by this project :-**
+**7. Key questions that resolve by this project :-**
    
   . How many total orders were placed?
   . What is the total revenue generated?
