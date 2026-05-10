@@ -51,7 +51,8 @@ Key questions that resolve by this project :-
 
 1. EXECUTIVE OVERVIEW : - https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Executive%20Overview.png
 2. CUSTOMER ANALYSIS : - https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Customer%20Analysis.png
-3. DELEVERY AND OPERATION :- 
+3. DELEVERY AND OPERATION :- https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Delevery%20and%20Operations.png
+4. ADVANCE INSIGHTS :- 
    
 
 Key KPIs (Top Left) Total number of resorts: 499 Resorts with summer skiing: 29 Resorts with night skiing: 204 Child-friendly resorts: 495 Countries covered: 38 Continents represented: 5
