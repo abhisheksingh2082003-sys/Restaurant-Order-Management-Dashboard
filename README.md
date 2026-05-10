@@ -54,8 +54,8 @@ Data on 30K+ restuarants around the world, including details on their location, 
 
 7. Walkthrough of Key Visuals
 
-1. EXECUTIVE OVERVIEW : - https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Executive%20Overview.png
-2. CUSTOMER ANALYSIS : - https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Customer%20Analysis.png
-3. DELEVERY AND OPERATION :- https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Delevery%20and%20Operations.png
-4. ADVANCE INSIGHTS :- https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Advance%20insights.png
+. EXECUTIVE OVERVIEW : - https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Executive%20Overview.png
+. CUSTOMER ANALYSIS : - https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Customer%20Analysis.png
+. DELEVERY AND OPERATION :- https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Delevery%20and%20Operations.png
+. ADVANCE INSIGHTS :- https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Advance%20insights.png
    
