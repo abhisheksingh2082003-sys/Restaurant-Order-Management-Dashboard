@@ -1,17 +1,20 @@
 
 1.  Restaurant Order Management Dashboard
-The Restaurant Order Management System is a database-driven project developed to manage restaurant operations efficiently. The system stores and manages customer information, restaurant details, order records, and date-based transaction data.
+It is a database-driven project developed to manage restaurant operations efficiently. The system stores and manages customer information, restaurant details, order records, and date-based transaction data.
 
 2. Overview
+   
 This project is a Restaurant Order Management Dashboard developed using Power BI and SQL. The dashboard analyzes restaurant orders, customer behavior, delivery performance, and revenue trends using data visualization and DAX calculations.
 
 The project helps businesses monitor KPIs, identify top-performing restaurants, analyze customer retention, and improve operational efficiency.
 
 3. Purpose
+   
 The main purpose of the dashboard is to simplify decision-making by converting raw database records into meaningful charts, graphs, and performance indicators. Instead of viewing data in tables only, users can easily monitor trends, compare restaurant performance, and analyze customer ordering behavior through visual reports.
 
 
-4. Tech Stack
+5. Tech Stack
+   
    
   List the key technologies used to build the dashboard:-
 
@@ -21,14 +24,18 @@ The main purpose of the dashboard is to simplify decision-making by converting r
 • 📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
+
 5. Data Source
+   
 Source Platform: Kaggle
 Dataset Type: Restaurant Order and Customer Data
 link :- https://www.kaggle.com/search?q=business+dataset
 
 Data on 30K+ restuarants around the world, including details on their location, prices,rating, votes , cuisine and many more insights.
 
-5. Features 
+5. Features
+
+
   - Real-Time Business Monitoring
   - Revenue Analysis
   - Order Tracking and Analysis
@@ -40,6 +47,7 @@ Data on 30K+ restuarants around the world, including details on their location, 
   - Interactive Visualization Features
 
 6. Key questions that resolve by this project :-
+   
  . How many total orders were placed?
  . What is the total revenue generated?
  . What is the average order value?
@@ -52,7 +60,7 @@ Data on 30K+ restuarants around the world, including details on their location, 
     many more......
 
 
-7. Walkthrough of Key Visuals
+8. Walkthrough of Key Visuals
 
 . EXECUTIVE OVERVIEW : - https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Executive%20Overview.png
 
