@@ -75,8 +75,8 @@
 **
  . EXECUTIVE OVERVIEW : - https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Executive%20Overview.png
 
- . CUSTOMER ANALYSIS : - https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Customer%20Analysis.png
-
+ . CUSTOMER ANALYSIS : - https://github.com/abhisheksingh2082003-sys/Restaurant-Order-Management-Dashboard/blob/main/Customers%20Overview.png
+ 
  . DELEVERY AND OPERATION :-https://github.com/abhisheksingh2082003-sys/Restaurant-Order-Management-Dashboard/blob/main/Delivery%20and%20operational.png
 
  . ADVANCE INSIGHTS :- https://github.com/abhisheksingh2082003-sys/Restaurant-Order-Management-Dashboard/blob/main/Advance%20Insights.png
