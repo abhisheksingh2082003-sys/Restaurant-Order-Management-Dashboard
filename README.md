@@ -79,6 +79,5 @@
 
  . DELEVERY AND OPERATION :- https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Delevery%20and%20Operations.png
 
- . ADVANCE INSIGHTS :- https://github.com/abhisheksingh2082003-sys/RESTAURANT-ORDER-MANAGEMENT-SYSTEM/blob/main/Advance%20insights.png
-
+ . ADVANCE INSIGHTS :- https://github.com/abhisheksingh2082003-sys/Restaurant-Order-Management-Dashboard/blob/main/Advance%20Insights.png
    
